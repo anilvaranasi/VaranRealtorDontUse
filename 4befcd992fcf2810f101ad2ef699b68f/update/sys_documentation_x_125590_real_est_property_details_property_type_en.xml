@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="property_type" label="Property Type" language="en" table="x_125590_real_est_property_details">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_type</element>
+            <help/>
+            <hint/>
+            <label>Property Type</label>
+            <language>en</language>
+            <name>x_125590_real_est_property_details</name>
+            <plural>Property Types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 09:42:15</sys_created_on>
+            <sys_id>0c92999d2f03a810f101ad2ef699b674</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Property Type</sys_name>
+            <sys_package display_value="Varan Realtor" source="x_125590_real_est">4befcd992fcf2810f101ad2ef699b68f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Varan Realtor">4befcd992fcf2810f101ad2ef699b68f</sys_scope>
+            <sys_update_name>sys_documentation_x_125590_real_est_property_details_property_type_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 09:42:15</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="property details" max_length="40" name="x_125590_real_est_property_details" type="collection">
+        <element label="Age" max_length="40" name="age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Agent / Owner" max_length="40" name="agent_owner" type="string"/>
+        <element label="carpet area (SFT)" max_length="40" name="carpet_area_sft" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Currency" max_length="40" name="currency" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Facing" max_length="40" name="facing" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Location" max_length="40" name="location" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Negotiable" max_length="40" name="negotiable" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New Property / Resale" max_length="40" name="new_property_resale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Price Eminities" max_length="40" name="price_eminities" type="integer"/>
+        <element label="Price Other" max_length="40" name="price_other" type="integer"/>
+        <element label="Price (per Sft)" max_length="40" name="price_per_sft" type="integer"/>
+        <element attributes="encode_utf8=false" label="Primary Agent" max_length="32" name="primary_agent" reference="ui_notification_route" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Primary Owner" max_length="40" name="primary_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Property Type" max_length="40" name="property_type" type="string"/>
+        <element label="Registration Price" max_length="40" name="registration_price" type="integer"/>
+        <element label="Super build up (SFT)" max_length="40" name="super_build_up_sft" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="Total Price" max_length="40" name="total_price" type="integer"/>
+        <index name="index">
+            <element name="primary_agent"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

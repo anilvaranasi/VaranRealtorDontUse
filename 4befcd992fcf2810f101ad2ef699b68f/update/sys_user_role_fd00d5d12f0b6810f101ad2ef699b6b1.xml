@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_125590_real_est.buyer</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_125590_real_est.buyer</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-21 09:31:11</sys_created_on>
+        <sys_id>fd00d5d12f0b6810f101ad2ef699b6b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_125590_real_est.buyer</sys_name>
+        <sys_package display_value="Varan Realtor" source="x_125590_real_est">4befcd992fcf2810f101ad2ef699b68f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Varan Realtor">4befcd992fcf2810f101ad2ef699b68f</sys_scope>
+        <sys_update_name>sys_user_role_fd00d5d12f0b6810f101ad2ef699b6b1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-21 09:31:11</sys_updated_on>
+    </sys_user_role>
+</record_update>

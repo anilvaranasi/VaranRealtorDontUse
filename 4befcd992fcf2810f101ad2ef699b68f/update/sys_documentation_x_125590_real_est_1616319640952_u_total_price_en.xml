@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_total_price" label="Total Price" language="en" table="x_125590_real_est_1616319640952">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_total_price</element>
+            <help/>
+            <hint/>
+            <label>Total Price</label>
+            <language>en</language>
+            <name>x_125590_real_est_1616319640952</name>
+            <plural>Total Prices</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-03-21 09:40:48</sys_created_on>
+            <sys_id>6232d55d2f03a810f101ad2ef699b618</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Total Price</sys_name>
+            <sys_package display_value="Varan Realtor" source="x_125590_real_est">4befcd992fcf2810f101ad2ef699b68f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Varan Realtor">4befcd992fcf2810f101ad2ef699b68f</sys_scope>
+            <sys_update_name>sys_documentation_x_125590_real_est_1616319640952_u_total_price_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-03-21 09:40:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
